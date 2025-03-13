@@ -1,4 +1,4 @@
-**Neural Network From Scratch** 🧠
+__Neural Network From Scratch__ 🧠
 This project implements a neural network from scratch, focusing on key concepts like optimization, backpropagation, and residual connections. It includes both theoretical explanations and practical implementations.
 
 📌 **Overview**
